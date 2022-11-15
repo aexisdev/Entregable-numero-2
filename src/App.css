@@ -1,0 +1,24 @@
+/* initial title styles */
+h1{
+  font-size: 50px;
+}
+h2{
+  font-size: 35px;
+}
+.text-content-inform-left{
+  font-size: 22px;
+  font-weight: bold;
+}
+.content-inform-rigth-ul-li-title{
+  font-size: 21px;
+}
+.content-inform-rigth-ul-li{
+  font-size: 18px;
+}
+.content-inform-rigth-ul-li P{
+  font-size: 19px;
+}
+/* Estilos del botton */
+.button-change-degrees{
+  font-size: 20px;
+}

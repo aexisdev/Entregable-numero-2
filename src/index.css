@@ -1,0 +1,62 @@
+/* Visual styles, colors and positioning */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* App Background Styles */
+.content-wrapp,
+h1,
+h3{
+  text-align: center;
+}
+/* colors of the h1 and span */
+h3,
+span{
+  color: #000 ;
+}
+h1,
+h2,
+.content-inform-rigth-ul-li-title,
+.content-inform-rigth-ul-li p{
+  color: #9649CB;
+} 
+/* general chart positioning styles */
+.content-wrapp{
+  background: url('./assets/cc3.gif') no-repeat center center/cover;
+  height: 100vh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.content-inform-clima{
+  background: #FFFDED; 
+  height: 500px;
+  width: 500px;
+  border-radius: 50px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+/* content-inform-left styles */
+.content-inform-left{
+  margin-bottom: 210px;
+}
+/* content-inform-rigth-ul styles */
+.content-inform-ul-li, li{
+  list-style: none;
+  margin: 10px 0 25px 35px;
+}
+/* butt styles */
+.button-change-degrees{
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 50px;
+}
+/* estilos de content-inform-rigth */
+
+
+
+
